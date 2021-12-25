@@ -24,4 +24,4 @@ haarcascade_frontalface_default.xml - used for training the model
 - Blurring the Face
 - Displaying the Blurred Face
 
------
+
