@@ -10,6 +10,12 @@
 
 -----
 
+### FILES
+
+haarcascade_frontalface_default.xml - used for training the model
+
+-----
+
 ### FEATURES
 
 - Detecting the Real-Time Frame(image) using Camera
