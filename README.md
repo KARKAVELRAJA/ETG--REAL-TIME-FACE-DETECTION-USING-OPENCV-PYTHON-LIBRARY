@@ -18,7 +18,7 @@ haarcascade_frontalface_default.xml - used for training the model
 
 ### FEATURES
 
-- Detecting the Real-Time Frame(image) using Camera
+- Detecting the Real-Time Frame(image) using opencv-python library
 - Training the Model
 - Predicting the Face 
 - Blurring the Face
